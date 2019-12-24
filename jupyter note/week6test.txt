@@ -1,0 +1,2 @@
+air   cloud
+obstacle bike     sky
